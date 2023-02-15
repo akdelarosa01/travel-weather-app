@@ -38,6 +38,3 @@ Finally, run the application. To run navigate to react folder then do this comma
 ``
 npm run dev
 ``
-``
-
-''
